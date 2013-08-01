@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_bluetooth"
+        android:icon="@drawable/action_bluetooth"
+        android:showAsAction="always"
+        android:title="Bluetooth"/>
+    <item
+        android:id="@+id/phone_preferences"
+        android:orderInCategory="300"
+        android:title="Preferences">
+        <menu>
+        </menu>
+    </item>
+
+</menu>
